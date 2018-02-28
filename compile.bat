@@ -1,0 +1,1 @@
+g++ -o "HDDDeath.exe" main.cpp -static-libgcc -static-libstdc++
